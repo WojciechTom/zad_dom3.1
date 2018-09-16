@@ -21,4 +21,5 @@ public class Televisor {
     void ShowStatus(){
         System.out.println("TV is " + offOrOn);
     }
+
 }
